@@ -1,4 +1,4 @@
-FROM gcr.io/cloud-builders/gcloud-slim@sha256:d4ca671e5764c0f8f494a2a7540ced1753fbbe62af249e74c2fc0bbac6fa94fc
+FROM gcr.io/cloud-builders/gcloud-slim@sha256:db3138770ef505cc6a3163d912fe71c07bfc4d37a0208e66cbeb08adaf4f7008
 
 LABEL "name"="gcloud"
 LABEL "version"="1.0.1"
